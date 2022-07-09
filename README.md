@@ -1,7 +1,7 @@
 # MetaMaskDemo
 ## Screenshots
 
-[Screenshot](https://github.com/fengfengscau/MetaMaskDemo/blob/main/video.gif)
+![Screenshot](https://github.com/fengfengscau/MetaMaskDemo/blob/main/video.gif)
 
 <p align="center">
       <img src="https://github.com/fengfengscau/MetaMaskDemo/blob/main/screenShot.jpg" width = "400">
