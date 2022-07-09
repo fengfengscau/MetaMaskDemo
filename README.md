@@ -13,6 +13,10 @@
 
 - Swift
 
+## UI
+
+- SwiftUI
+
 ## Data
 
 - Load data from json file
