@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "C8B046E9-70F5-40D4-B19A-40B3E0E0877B",
+        "image" : "ETH",
+        "amount" : 1,
+        "name" : "ETH",
+        "dollar" : "$4,097.51"
+    },
+    {
+        "id" : "2E27CA7C-ED1A-48C2-9B01-A122038EB67A",
+        "image" : "BTC",
+        "amount" : 1,
+        "name" : "BTC",
+        "dollar" : "$4.17"
+    },
+    {
+        "id" : "DDC7CA7C-ED1A-7789-5699-A122038E2345",
+        "image" : "SAND",
+        "amount" : 1,
+        "name" : "SAND",
+        "dollar" : "$6.15"
+    }
+]
